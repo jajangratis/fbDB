@@ -1,7 +1,22 @@
 {
   "timeline": [
-    {name:'Ujang Khoirudin',status:'statusku1',waktu:'5 Minutes ago'},
-    {name:'Siti Aminah',status:'statusku2',waktu:'5 Minutes ago'},
-    {name:'Kiki Komarudin',status:'statusku3',waktu:'5 Minutes ago'}
+    {
+      "id":1
+      "name":'Ujang Khoirudin',
+      "status" : 'statusku1',
+      "waktu":'5 Minutes ago'
+    },
+    {
+      "id":2
+      "name":'Amin Khoirudin',
+      "status" : 'statusku2',
+      "waktu":'5 Minutes ago'
+    },
+    {
+      "id":3
+      "name":'Udin Khoirudin',
+      "status" : 'statusku3',
+      "waktu":'5 Minutes ago'
+    },
   ],
 }
